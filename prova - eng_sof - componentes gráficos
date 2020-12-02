@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T01:01:28.536Z" agent="5.0 (Windows)" version="13.10.5" etag="ICDpz3sC1QOMIDpWE9AA" type="github"><diagram id="oFRR1VimmZyHa4cCmit7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-02T01:06:16.356Z" agent="5.0 (Windows)" etag="8lDUBZ44tUGE6KCblrvA" version="13.10.5" type="github">
+  <diagram id="oFRR1VimmZyHa4cCmit7" name="Page-1">
+    <mxGraphModel dx="1021" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-1" value=":objeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-5" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-6" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-7" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="470" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-8" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-PE1P1eXKTaaD7icgEQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-9" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="189.9999999999999" as="sourcePoint" />
+            <mxPoint x="280" y="189.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-10" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="299.40999999999985" as="sourcePoint" />
+            <mxPoint x="280" y="299.40999999999985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-11" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="399.4099999999999" as="sourcePoint" />
+            <mxPoint x="280" y="399.4099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-12" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="519.9999999999999" as="sourcePoint" />
+            <mxPoint x="280" y="519.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-13" value="&lt;div align=&quot;left&quot;&gt;Objetos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="85" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-14" value="Atores" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-15" value="Fronteiras" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-16" value="Entidade" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R-PE1P1eXKTaaD7icgEQ-17" value="Controle" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
